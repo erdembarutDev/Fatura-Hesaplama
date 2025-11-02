@@ -1,0 +1,10 @@
+C:\Users\Erdem\source\repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\Erdem\source\repos\project1\project1\bin\Debug\project1.exe
+C:\Users\Erdem\source\repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\Erdem\source\repos\project1\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\Erdem\source\repos\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\Erdem\source\repos\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\Erdem\source\repos\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\Erdem\source\repos\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\source\repos\project1\project1\obj\Debug\project1.exe
+C:\Users\Erdem\source\repos\project1\project1\obj\Debug\project1.pdb
